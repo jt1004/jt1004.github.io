@@ -547,6 +547,7 @@ b i:last-child {
 
 .box-words-wrapper b.is-visible {
     position: relative;
+    text-align: center;
 }
 
 .no-js .box-words-wrapper b {
