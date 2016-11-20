@@ -572,6 +572,7 @@ b i:last-child {
 }
 
 .box-headline.rotate-2 b {
+    text-align: center;
     opacity: 0;
 }
 
